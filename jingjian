@@ -88,6 +88,7 @@ static=Facebook, 节点选择, proxy, 自动(延迟优选), 自动(故障转移)
 static=Instagram, 节点选择, proxy, 自动(延迟优选), 自动(故障转移), 自动(负载均衡), 负载均衡(随机), 香港(延迟优选), 香港(负载均衡), 台湾(延迟优选), 台湾(负载均衡), 日本(延迟优选), 日本(负载均衡), 韩国(延迟优选), 韩国(负载均衡), 新加坡(延迟优选), 新加坡(负载均衡), 美国(延迟优选), 美国(负载均衡), 英国(延迟优选), 英国(负载均衡), 土耳其(延迟优选), 土耳其(负载均衡), 全球直连, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Instagram.png
 static=国外媒体, 节点选择, proxy, 自动(延迟优选), 自动(故障转移), 自动(负载均衡), 负载均衡(随机), 香港(延迟优选), 香港(负载均衡), 台湾(延迟优选), 台湾(负载均衡), 日本(延迟优选), 日本(负载均衡), 韩国(延迟优选), 韩国(负载均衡), 新加坡(延迟优选), 新加坡(负载均衡), 美国(延迟优选), 美国(负载均衡), 英国(延迟优选), 英国(负载均衡), 土耳其(延迟优选), 土耳其(负载均衡), 全球直连, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/StreamingSE.png
 static=国内媒体, 全球直连, 节点选择, 自动(延迟优选), 自动(故障转移), 自动(负载均衡), 负载均衡(随机), 香港(延迟优选), 香港(负载均衡), 台湾(延迟优选), 台湾(负载均衡), 日本(延迟优选), 日本(负载均衡), 韩国(延迟优选), 韩国(负载均衡), 新加坡(延迟优选), 新加坡(负载均衡), 美国(延迟优选), 美国(负载均衡), 英国(延迟优选), 英国(负载均衡), 土耳其(延迟优选), 土耳其(负载均衡), proxy, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Streaming.png
+static=Netflix, 节点选择, proxy, 自动(延迟优选), 自动(故障转移), 自动(负载均衡), 负载均衡(随机), 香港(延迟优选), 香港(负载均衡), 台湾(延迟优选), 台湾(负载均衡), 日本(延迟优选), 日本(负载均衡), 韩国(延迟优选), 韩国(负载均衡), 新加坡(延迟优选), 新加坡(负载均衡), 美国(延迟优选), 美国(负载均衡), 英国(延迟优选), 英国(负载均衡), 土耳其(延迟优选), 土耳其(负载均衡), 全球直连, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 
 #直连策略
 static=全球直连, direct, proxy, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Air_Bnb.png
